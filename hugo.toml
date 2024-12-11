@@ -1,0 +1,4 @@
+baseURL = 'https://anto-jim.dev/'
+languageCode = 'en-us'
+title = 'Antonio Jimenez'
+theme = 'ananke'
