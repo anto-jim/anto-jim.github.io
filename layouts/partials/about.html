@@ -1,5 +1,5 @@
 {{ if .Site.Data.homepage.about.enable }}
-<section class="section rad-animation-group pb-0">
+<section class="section rad-animation-group pb-0" id="about">
   <div class="container rad-fade-down">
     <div class="row d-flex flex-column-reverse flex-md-row">
       <div class="about__profile-picture col-12 col-md-6">
@@ -16,7 +16,7 @@
         <picture>
           <source srcset="{{ $imgWebp.RelPermalink }} 1x, {{ $img2xWebp.RelPermalink }} 2x" type="image/webp" />
           <source srcset="{{ $img.RelPermalink }} 1x, {{ $img2x.RelPermalink }} 2x" type="image/webp">
-          <img id="about"
+          <img
             width="{{ $img.Width }}"
             height="{{ $img.Height }}"
             class="lozad img-responsive image-left-overflow"
