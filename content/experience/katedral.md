@@ -13,6 +13,7 @@ duration: "May 2022 - Nov 2022" # from-to, for example "2022-2024". Fill-in.
 # The beginning of a great career. 
 # 
 ---
+### Game Developer
 Development of a mobile game - RIMUD - and an accompanying website: C# for game scripts and internet connection, Unity for scene creation an GUIs in the game, 
 AWS Lambda for serverless services to collect game metrics and for downloading resources, coded in Python and Node.js, React.js for the website, DynamoDB for storing metrics, MySQL for storing user data, Compile using Xcode for iOS
 

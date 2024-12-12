@@ -137,7 +137,7 @@ theme = "adritian-free-hugo-theme"
 
   sections = ["showcase", "about", "education", "experience"]
 
-  homepageExperienceCount = 6
+  homepageExperienceCount = 2
 
   # controls vercel page insights - disabled by default
   vercelPageInsights = false

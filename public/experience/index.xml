@@ -13,21 +13,21 @@
       <link>http://localhost:1313/experience/qaracter/</link>
       <pubDate>Sat, 01 Jul 2023 22:44:37 +0100</pubDate>
       <guid>http://localhost:1313/experience/qaracter/</guid>
-      <description>&lt;p&gt;Development of a Spring Boot microservice to parse and validate messages from Calypso: Microservice developed using Spring Boot and Reactor, Connected to TIBCO EMS queues to receive messages,&#xA;Send results to Kafka, Integrated with TIBCO BWCE applications for error handling.&lt;/p&gt;&#xA;&lt;p&gt;Optimization of code developing a Java library for TIBCO BW.&lt;/p&gt;&#xA;&lt;p&gt;Integration tests of new code in pre existing systems for the financial sector.&lt;/p&gt;&#xA;&lt;p&gt;Development of new functionalities in microservices for the financial sector.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;business-analyst&#34;&gt;Business Analyst&lt;/h3&gt;&#xA;&lt;p&gt;Development of a Spring Boot microservice to parse and validate messages from Calypso: Microservice developed using Spring Boot and Reactor, Connected to TIBCO EMS queues to receive messages,&#xA;Send results to Kafka, Integrated with TIBCO BWCE applications for error handling.&lt;/p&gt;&#xA;&lt;p&gt;Optimization of code developing a Java library for TIBCO BW.&lt;/p&gt;&#xA;&lt;p&gt;Integration tests of new code in pre existing systems for the financial sector.&lt;/p&gt;&#xA;&lt;p&gt;Development of new functionalities in microservices for the financial sector.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Katedral</title>
       <link>http://localhost:1313/experience/katedral/</link>
       <pubDate>Sun, 01 May 2022 22:49:46 +0100</pubDate>
       <guid>http://localhost:1313/experience/katedral/</guid>
-      <description>&lt;p&gt;Development of a mobile game - RIMUD - and an accompanying website: C# for game scripts and internet connection, Unity for scene creation an GUIs in the game,&#xA;AWS Lambda for serverless services to collect game metrics and for downloading resources, coded in Python and Node.js, React.js for the website, DynamoDB for storing metrics, MySQL for storing user data, Compile using Xcode for iOS&lt;/p&gt;&#xA;&lt;p&gt;Master&amp;rsquo;s degree internship.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;game-developer&#34;&gt;Game Developer&lt;/h3&gt;&#xA;&lt;p&gt;Development of a mobile game - RIMUD - and an accompanying website: C# for game scripts and internet connection, Unity for scene creation an GUIs in the game,&#xA;AWS Lambda for serverless services to collect game metrics and for downloading resources, coded in Python and Node.js, React.js for the website, DynamoDB for storing metrics, MySQL for storing user data, Compile using Xcode for iOS&lt;/p&gt;&#xA;&lt;p&gt;Master&amp;rsquo;s degree internship.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Indra</title>
       <link>http://localhost:1313/experience/indra/</link>
       <pubDate>Thu, 01 Apr 2021 22:49:53 +0100</pubDate>
       <guid>http://localhost:1313/experience/indra/</guid>
-      <description>&lt;p&gt;Improving a preexising web application: Front end with JS and HTML, back end with Java and JSP, Oracle database.&lt;/p&gt;&#xA;&lt;p&gt;University internship.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;full-stack-developer&#34;&gt;Full Stack Developer&lt;/h3&gt;&#xA;&lt;p&gt;Improving a preexising web application: Front end with JS and HTML, back end with Java and JSP, Oracle database.&lt;/p&gt;&#xA;&lt;p&gt;University internship.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

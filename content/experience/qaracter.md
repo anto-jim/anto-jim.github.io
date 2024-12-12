@@ -13,6 +13,7 @@ duration: "Jul 2023 - Present" # from-to, for example "2022-2024". Fill-in.
 # The beginning of a great career. 
 # 
 ---
+### Business Analyst
 Development of a Spring Boot microservice to parse and validate messages from Calypso: Microservice developed using Spring Boot and Reactor, Connected to TIBCO EMS queues to receive messages, 
 Send results to Kafka, Integrated with TIBCO BWCE applications for error handling.
 
