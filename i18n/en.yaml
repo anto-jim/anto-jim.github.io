@@ -27,14 +27,14 @@
   translation: "Welcome to my website!"
 
 - id: "showcase_description"
-  translation: "I'm a passionate Computer Scientist with a proven track record in software engineering, game development, and business analysis. My career journey reflects my dedication to creating efficient, scalable, and innovative solutions. Whether developing engaging mobile games, optimizing financial systems, or designing microservices, I strive to deliver impactful results.</br>Let’s explore my professional story below."
+  translation: "I'm a Business Analyst at Qaracter focused on artificial intelligence and financial-sector software. My background spans software engineering, game development, and business analysis — from mobile games to microservices and systems integration.</br>Let’s explore my professional story below."
 
 - id: "showcase_button"
   translation: "Contact"
 
   ## not visible but used for accessibility
 - id: "showcase_image_alt"
-  translation: "A picture of Cool Name"
+  translation: "A picture of Antonio Jiménez"
 
 ## Homepage about
 - id: "about_title"
@@ -42,10 +42,10 @@
 
 - id: "about_content"
   translation:  <p class="lead">
-      I am a skilled Computer Scientist with expertise in programming and problem-solving. My academic and professional background has provided me with diverse experiences in game development, software engineering, and business analysis.
+      I am a Computer Scientist and Business Analyst at Qaracter, working on AI-oriented solutions and financial-systems consulting. My academic and professional path covers game development, software engineering, and business analysis.
       </p>
       <p class="lead">
-      Fluent in English at C2 Proficiency, I am equipped to thrive in both technical and collaborative environments, offering advanced knowledge in algorithm development, system efficiency, and modern development tools.
+      Native or bilingual in English (Cambridge C2 Proficiency, score 220) and a native Spanish speaker, I work comfortably in technical and collaborative environments across algorithm design, system efficiency, and modern development tools.
     </p>
 
 - id: "about_button"
@@ -60,7 +60,7 @@
   translation: "Experience"
 
 - id: "experience_description"
-  translation: "I am a versatile Computer Scientist with experience in full-stack development, game development, and business analysis, specializing in creating innovative solutions using technologies like Java, C#, Unity, AWS, and Spring Boot for industries ranging from gaming to financial systems."
+  translation: "About 3 years and 9 months of professional experience across business analysis, game development, and full-stack engineering — with recent work in financial services (Spring Boot, Kafka, TIBCO) and earlier projects in Unity, AWS, and web stacks."
 
 - id: "experience_button"
   translation: "LinkedIn" 

@@ -3,7 +3,7 @@ date: '2023-07-01T22:44:37+01:00' # date in which the content is created - defau
 title: 'Qaracter'
 draft: false # set to "true" if you want to hide the content 
 jobTitle: "Business Analyst" # job description/title. Fill-in
-company: "Qaracter" # name of the company you worked for. Fill-in
+company: "Qaracter - Beyond your Challenge" # name of the company you worked for. Fill-in
 location: "Málaga, Andalusia, Spain" # place/city/country for the experience. Fill-in.
 duration: "Jul 2023 - Present" # from-to, for example "2022-2024". Fill-in.
 

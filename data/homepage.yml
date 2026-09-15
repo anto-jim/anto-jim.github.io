@@ -28,16 +28,16 @@ education:
   enable: true
   items:
     - university: "Universidad de Málaga"
-      year: "Oct 2023 - Present"
+      year: "2023 - 2026"
       degree: "Master's Degree in Software Engineering and Artificial Intelligence"
 
     - university: "Universidad de Málaga"
-      year: "Oct 2021 - Jan 2023"
+      year: "2021 - 2023"
       degree: "Master's Degree in Videogame Creation: Design and Programming module"
 
     - university: "Universidad de Málaga"
-      year: "Oct 2021 - Jan 2023"
-      degree: "Bachelor's Degree in Computer Science: Major in Computing"
+      year: "2017 - 2022"
+      degree: "Bachelor's Degree in Computer Science: Major in Computing (7.33)"
 
 # experience
 ## to hiden a button, set the icon to an empty string

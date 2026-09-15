@@ -1,5 +1,6 @@
 baseURL = "https://www.anto-jim.dev"
 languageCode = "en"
+defaultContentLanguage = "en"
 theme = "adritian-free-hugo-theme"
 
 [languages]
@@ -55,60 +56,6 @@ theme = "adritian-free-hugo-theme"
         name = "Experience"
         URL = "#experience"
         weight = 5
-
-
-  [languages.es]
-    disabled = true
-    languageCode = 'es'
-    languageDirection = 'ltr'
-    languageName = 'Español'
-    title = ''
-    weight = 0
-      [[languages.es.menus.header]]
-        name = 'Sobre mi'
-        URL = '/es/#about'
-        weight = 2
-      [[languages.es.menus.header]]
-        name = 'Educación'
-        URL = '/es/#education'
-        weight = 3
-
-      [[languages.es.menus.header]]
-        name = "Experiencia"
-        URL = "/es/#experience"
-        weight = 4
-
-      #[[languages.es.menus.header]]
-      #  name = "Blog"
-      #  URL = "/es/blog"
-      #  weight = 5
-
-      #[[languages.es.menus.header]]
-      #  name = "Contacto"
-      #  URL = "/es/#contact"
-      #  weight = 6
-
-      [[languages.es.menus.footer]]
-        name = "Sobre mi"
-        URL = "/es/#about"
-        weight = 2
-
-      [[languages.es.menus.footer]]
-        name = "Educación"
-        URL = "/es/#education"
-        weight = 3
-
-      #[[languages.es.menus.footer]]
-      #  name = "Contacto"
-      #  URL = "/es/#contact"
-      #  weight = 4
-
-      [[languages.es.menus.footer]]
-        name = "Experiencia"
-        URL = "/es/#experience"
-        weight = 5
-  
-  
 
 # Plugins
 [params.plugins]
