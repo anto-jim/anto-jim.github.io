@@ -55,6 +55,10 @@
 - id: "education_title"
   translation: "Education"
 
+## Homepage certifications
+- id: "certifications_title"
+  translation: "Certifications"
+
 ## Homepage experience
 - id: "experience_title"
   translation: "Experience"

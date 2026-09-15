@@ -39,6 +39,50 @@ education:
       year: "2017 - 2022"
       degree: "Bachelor's Degree in Computer Science: Major in Computing (7.33)"
 
+# certifications
+certifications:
+  enable: true
+  categories:
+    - title: "Artificial Intelligence"
+      items:
+        - name: "Agentic AI Certified Foundations Associate"
+          issuer: "Oracle"
+          date: "Jun 2026"
+          credential: "1Z0-1157-26"
+
+    - title: "Project Management"
+      items:
+        - name: "Atlassian Agile Project Management Professional Certificate"
+          issuer: "Atlassian"
+          date: "Jan 2025"
+
+    - title: "Languages"
+      items:
+        - name: "C2 Proficiency (Score 220)"
+          issuer: "Cambridge Assessment English"
+          date: "Feb 2023"
+          credential: "ES337 0008 C1328379 02091999"
+
+    - title: "Game Development"
+      items:
+        - name: "Unreal Multiplayer Master: Video Game Dev In C++"
+          issuer: "GameDev.tv"
+          date: "Mar 2023"
+          credential: "UOLE738ACB3796F"
+
+        - name: "Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games"
+          issuer: "Udemy"
+          date: "Jan 2023"
+          credential: "UC-1cb8386d-0241-4bda-92f3-81f1bce3ae34"
+
+        - name: "Patrones de diseño para Videojuegos"
+          issuer: "Hotmart"
+          date: "Jan 2023"
+
+        - name: "SOLID y Clean Code para Videojuegos"
+          issuer: "Hotmart"
+          date: "Jan 2023"
+
 # experience
 ## to hiden a button, set the icon to an empty string
 experience:

@@ -1,0 +1,13 @@
+.certification-category {
+    margin-top: 2rem;
+}
+
+.certification-category:first-of-type {
+    margin-top: 1.25rem;
+}
+
+.certification-category__title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+}
