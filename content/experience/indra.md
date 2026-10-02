@@ -14,7 +14,7 @@ duration: "Apr 2021 - Jun 2021" # from-to, for example "2022-2024". Fill-in.
 # 
 ---
 ### Full Stack Developer
-Improving a preexising web application: Front end with JS and HTML, back end with Java and JSP, Oracle database.
 
+Improved a preexisting web application: front end (**JS**, **HTML**), back end (**Java**, **JSP**), **Oracle** database.
 
 University internship.

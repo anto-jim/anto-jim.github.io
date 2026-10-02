@@ -14,14 +14,19 @@ duration: "Jul 2023 - Present" # from-to, for example "2022-2024". Fill-in.
 # 
 ---
 ### Business Analyst
-Development of a Spring Boot microservice to parse and validate messages from Calypso: Microservice developed using Spring Boot and Reactor, Connected to TIBCO EMS queues to receive messages, 
-Send results to Kafka, Integrated with TIBCO BWCE applications for error handling.
 
+Implements a **Camunda** and **Spring Boot** system for **regulatory reporting**.
 
-Optimization of code developing a Java library for TIBCO BW.
+Uses **Devin** as an AI coding/assistant tool to **implement and test** those systems.
 
-Integration tests of new code in pre existing systems for the financial sector.
+Built an automatic business email processor with **Camunda** and **ChatGPT**, applying GenAI inside a process-automation workflow.
 
-Development of new functionalities in microservices for the financial sector.
+Developed a **Spring Boot** + **Reactor** microservice to parse and validate messages from **Calypso**, consuming **TIBCO EMS** queues and publishing results to **Kafka**.
 
-Development of an automatic email processor for businesses using Camunda and ChatGPT.
+Integrated the microservice with **TIBCO BWCE** applications for error handling in financial-sector flows.
+
+Optimized shared integration code by developing a **Java library for TIBCO BW**.
+
+Added new functionalities to existing fintech microservices and ran integration tests against pre-existing financial systems.
+
+Worked in an Agile delivery context (Atlassian Agile Project Management Professional Certificate, Jan 2025).
