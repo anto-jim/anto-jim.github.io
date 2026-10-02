@@ -14,20 +14,20 @@
 
 ## Homepage head title
 - id: "head_title"
-  translation: "Antonio Jiménez - Personal site"
+  translation: "Antonio Jiménez — AI Business Analyst | AI Solutions & Agentic Process Automation"
 
 - id: "head_description"
-  translation: "This is my own personal page."
+  translation: "AI Business Analyst focused on AI solutions and agentic process automation. Camunda + ChatGPT workflows, fintech integration (Spring Boot, Kafka, TIBCO), Oracle Agentic AI certified. Based in Málaga; open to remote EU & USA."
 
 ## Homepage showcase
 - id: "showcase_title"
   translation: "Hello, I’m Antonio."
 
 - id: "showcase_subtitle"
-  translation: "Welcome to my website!"
+  translation: "AI Business Analyst | AI Solutions & Agentic Process Automation"
 
 - id: "showcase_description"
-  translation: "I'm a Business Analyst at Qaracter focused on artificial intelligence and financial-sector software. My background spans software engineering, game development, and business analysis — from mobile games to microservices and systems integration.</br>Let’s explore my professional story below."
+  translation: "Mid-level Business Analyst with a Computer Science background who designs and ships AI-enabled process automation in fintech. Hands-on with Camunda / Spring Boot regulatory reporting (using Devin to implement and test), Camunda + ChatGPT workflows, and Spring Boot / Kafka / TIBCO integration. Oracle Agentic AI Certified Foundations Associate; completing a Master’s in Software Engineering and Artificial Intelligence (SE+AI) through September 2026.</br>Open to remote roles in the EU and USA — explore my background below."
 
 - id: "showcase_button"
   translation: "Contact"
@@ -42,10 +42,10 @@
 
 - id: "about_content"
   translation:  <p class="lead">
-      I am a Computer Scientist and Business Analyst at Qaracter, working on AI-oriented solutions and financial-systems consulting. My academic and professional path covers game development, software engineering, and business analysis.
+      I am an AI Business Analyst at Qaracter working on AI solutions and agentic process automation in financial services. I combine requirements and delivery work with hands-on integration (Spring Boot, Kafka, TIBCO), Camunda / Spring Boot systems for regulatory reporting (using Devin as an AI coding/assistant tool to implement and test), and a production Camunda + ChatGPT email workflow.
       </p>
       <p class="lead">
-      Native or bilingual in English (Cambridge C2 Proficiency, score 220) and a native Spanish speaker, I work comfortably in technical and collaborative environments across algorithm design, system efficiency, and modern development tools.
+      Oracle Agentic AI Certified Foundations Associate; completing a Master’s in Software Engineering and Artificial Intelligence (SE+AI) through September 2026, including a MARL / OpenSpiel thesis (forthcoming on Riuma). Native or bilingual in English (Cambridge C2 Proficiency, score 220) and Spanish.
     </p>
 
 - id: "about_button"
@@ -64,7 +64,7 @@
   translation: "Experience"
 
 - id: "experience_description"
-  translation: "About 3 years and 9 months of professional experience across business analysis, game development, and full-stack engineering — with recent work in financial services (Spring Boot, Kafka, TIBCO) and earlier projects in Unity, AWS, and web stacks."
+  translation: "About 3 years and 9 months across business analysis, game development, and full-stack work. Recent focus: Camunda / Spring Boot regulatory reporting (Devin for implement/test), AI-enabled process automation (Camunda + ChatGPT), and fintech integration (Spring Boot, Kafka, TIBCO), with earlier projects in Unity, AWS, and web stacks."
 
 - id: "experience_button"
   translation: "LinkedIn" 
