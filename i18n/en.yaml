@@ -17,7 +17,7 @@
   translation: "Antonio Jiménez — AI Business Analyst | AI Solutions & Agentic Process Automation"
 
 - id: "head_description"
-  translation: "AI Business Analyst focused on AI solutions and agentic process automation. Camunda + ChatGPT workflows, fintech integration (Spring Boot, Kafka, TIBCO), Oracle Agentic AI certified. Based in Málaga; open to remote EU & USA."
+  translation: "AI Business Analyst focused on AI solutions and agentic process automation. Camunda + ChatGPT workflows, fintech integration (Spring Boot, Kafka, TIBCO), Oracle Agentic AI certified. Based in Málaga, Spain."
 
 ## Homepage showcase
 - id: "showcase_title"
@@ -27,7 +27,7 @@
   translation: "AI Business Analyst | AI Solutions & Agentic Process Automation"
 
 - id: "showcase_description"
-  translation: "Mid-level Business Analyst with a Computer Science background who designs and ships AI-enabled process automation in fintech. Hands-on with Camunda / Spring Boot regulatory reporting (using Devin to implement and test), Camunda + ChatGPT workflows, and Spring Boot / Kafka / TIBCO integration. Oracle Agentic AI Certified Foundations Associate; completed a Master’s in Software Engineering and Artificial Intelligence (SE+AI) in September 2026.</br>Open to remote roles in the EU and USA — explore my background below."
+  translation: "Mid-level Business Analyst with a Computer Science background who designs and ships AI-enabled process automation in fintech. Hands-on with Camunda / Spring Boot regulatory reporting (using Devin to implement and test), Camunda + ChatGPT workflows, and Spring Boot / Kafka / TIBCO integration. Oracle Agentic AI Certified Foundations Associate; completed a Master’s in Software Engineering and Artificial Intelligence (SE+AI) in September 2026.</br>Explore my background below."
 
 - id: "showcase_button"
   translation: "Contact"
@@ -45,7 +45,7 @@
       I am an AI Business Analyst at Qaracter working on AI solutions and agentic process automation in financial services. I combine requirements and delivery work with hands-on integration (Spring Boot, Kafka, TIBCO), Camunda / Spring Boot systems for regulatory reporting (using Devin as an AI coding/assistant tool to implement and test), and a production Camunda + ChatGPT email workflow.
       </p>
       <p class="lead">
-      Oracle Agentic AI Certified Foundations Associate; completed a Master’s in Software Engineering and Artificial Intelligence (SE+AI) in September 2026, including a MARL / OpenSpiel thesis (forthcoming on Riuma). Native or bilingual in English (Cambridge C2 Proficiency, score 220) and Spanish.
+      Oracle Agentic AI Certified Foundations Associate; completed a Master’s in Software Engineering and Artificial Intelligence (SE+AI) in September 2026, including a MARL / OpenSpiel thesis (forthcoming on Riuma). Spanish — Native; English — Bilingual (Cambridge C2 Proficiency, score 220).
     </p>
 
 - id: "about_button"
